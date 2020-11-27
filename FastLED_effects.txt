@@ -7,3 +7,5 @@ Welcome to AKM's bucket!
 3. Hue scroll:
 
 4. Fill:
+
+5.Sine_Effect:
